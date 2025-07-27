@@ -1,5 +1,5 @@
 <h1 align="center">
-<strong>AUT_AP_2024_Spring Homework 1</strong>
+<strong>Backup Script Development and algebra` Namespace</strong>
 </h1>
 
 <p align="center">
